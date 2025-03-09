@@ -1,4 +1,5 @@
 nx-arangodb 
+networkx==3.4
 pandas 
 matplotlib 
 python-dotenv 
