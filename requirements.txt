@@ -8,3 +8,4 @@ flask-cors
 langchain 
 langchain-community 
 langgraph
+gunicorn
