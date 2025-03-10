@@ -7,5 +7,6 @@ flask
 flask-cors
 langchain 
 langchain-community 
+langchain_openai
 langgraph
 gunicorn
